@@ -1,0 +1,13 @@
+.menu{
+    width: 500px;
+    position: absolute;
+    right: 200px;
+}
+h3{
+    position: absolute;
+    top:500px;
+    right: 200px;
+}
+a{
+    color: maroon;
+}
